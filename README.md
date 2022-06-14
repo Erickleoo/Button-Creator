@@ -22,4 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto de gerador de botões pra treinar o uso de formulários, a utlização do Local Storage e facilitar a vida do desenvolvedor
+Projeto de gerador de botões pra treinar o uso de formulários e a utlização do Local Storage.
